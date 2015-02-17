@@ -98,14 +98,14 @@ Guy Debord: [A User’s Guide to Détournement](http://www.bopsecrets.org/SI/det
 
 ### Repositorios y archivos:
 
-    * [archive.org](https://archive.org/)
-    * [ubu web](http://www.ubuweb.com/)
-    * [gif me](https://gifme.io)
-    * [meme dump] (http://memedump.com/)
-    * [mugshots](http://mugshots.com/)
-    * [know your meme](http://knowyourmeme.com/)
-    * [Vine](https://vine.co/)
-    * [Soundcloud](https://soundcloud.com/)
+* [archive.org](https://archive.org/)
+* [ubu web](http://www.ubuweb.com/)
+* [gif me](https://gifme.io)
+* [meme dump] (http://memedump.com/)
+* [mugshots](http://mugshots.com/)
+* [know your meme](http://knowyourmeme.com/)
+* [Vine](https://vine.co/)
+* [Soundcloud](https://soundcloud.com/)
 
 
 ### Referentes:
