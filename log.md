@@ -64,3 +64,62 @@ Referentes históricos del net.art.  Inicios
     * Since you were born: http://www.evan-roth.com/work/since-you-were-born/
     * http://kamasutra-on-dimgray.com/
     * http://flight-mode.net/
+
+
+Guy Debord: [A User’s Guide to Détournement](http://www.bopsecrets.org/SI/detourn.htm)
+
+## Sesión 3: Búsqueda, bases de datos, repositorios.
+
+
+[Definicion d web search engine](https://en.wikipedia.org/wiki/Web_search_engine)
+
+[Page Rank](https://en.wikipedia.org/wiki/PageRank)
+[Page rank y la economía del conocimiento](https://www.academia.edu/1992027/Googles_PageRank_algorithm_a_diagram_of_cognitive_capitalism_and_the_rentier_of_the_common_intellect)
+
+[Teoría y potíticas del los motores de búsqueda](http://networkcultures.org/blog/publication/society-of-the-query-reader-reflections-on-web-search/)
+
+### Flickr
+
+[Estatua de la Libertad](https://www.flickr.com/search/?sort=relevance&license=1%2C2%2C3%2C4%2C5%2C6&text=statue%20of%20liberty)
+
+### Google image search
+
+[Mona Lisa](https://www.google.com/search?num=20&safe=off&sa=G&tbs=simg:CAESjQIaigILEKjU2AQaCAgACAIIPQhDDAsQsIynCBqcAQo6CAISFMkPpxL0EbsPpRGaEoIP-RH8EZwSGiCssp5UrnaN4cjbzrjhmHow0eXGliXbIWdnw60t3XYZUApeCAMSKLIOkg7qD8QPoBmXGfYY9hncGfQYvTq8Ors6_1S3ZLP8t_1C2_1Oo8uuToaMIJGR2hyq3afUZA_15oTY7aALtDW0eS_1a10kBG2KxXV-v2oZS9TiDpyzrxvNhrnRW2QwLEI6u_1ggaCgoICAESBML2J0YMCxCd7cEJGjcKCgoIcGFpbnRpbmcKCAoGcGVyc29uCgwKCnBob3RvZ3JhcGgKCgoIcG9ydHJhaXQKBQoDYXJ0DA&q=mona+lisa+de+leonardo+da+vinci+hd&tbm=isch&ei=zBTjVN3aFYHQgwSnhoKYDw&ved=0CC8Qsw4&biw=1225&bih=657)
+
+
+### Gif me
+    
+    * [cats jump search](https://gifme.io/search/q?query=cats+jump)
+
+### Twitter
+
+    * [#foodporn](https://twitter.com/search?q=%23Foodporrn&src=tyah&mode=photos)
+
+
+### Repositorios y archivos:
+
+    * [archive.org](https://archive.org/)
+    * [ubu web](http://www.ubuweb.com/)
+    * [gif me](https://gifme.io)
+    * [meme dump] (http://memedump.com/)
+    * [mugshots](http://mugshots.com/)
+    * [know your meme](http://knowyourmeme.com/)
+    * [Vine](https://vine.co/)
+    * [Soundcloud](https://soundcloud.com/)
+
+
+### Referentes:
+
+Clement Valla: [Postcards from google earth](http://clementvalla.com/work/postcards-from-google-earth/)
+
+Dina Kelberman [I'm Google](http://dinakelberman.tumblr.com/)
+
+Guido Segni: [http://www.alonelygooglespaceoddity.com/](A lonely google space oddity)
+
+Collettivo Carmine: [Query Oraculum](http://www.copons.it/carmine/project/oraculum/)
+
+Silvio Lorusso [Google Image Quiz](http://google-image-quiz.net/)
+
+Lauren Comito: [Search Engine](http://www.laurencomito.com/category/projects/search-engine/)
+
+Eric Souther [Search engine vision: chair](http://unseensignals.com/search-engine-vision-chair.html)
