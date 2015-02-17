@@ -73,10 +73,11 @@ Guy Debord: [A User’s Guide to Détournement](http://www.bopsecrets.org/SI/det
 
 [Definicion d web search engine](https://en.wikipedia.org/wiki/Web_search_engine)
 
-[Page Rank](https://en.wikipedia.org/wiki/PageRank)
-[Page rank y la economía del conocimiento](https://www.academia.edu/1992027/Googles_PageRank_algorithm_a_diagram_of_cognitive_capitalism_and_the_rentier_of_the_common_intellect)
+Wikipedia: [Page Rank](https://en.wikipedia.org/wiki/PageRank)
 
-[Teoría y potíticas del los motores de búsqueda](http://networkcultures.org/blog/publication/society-of-the-query-reader-reflections-on-web-search/)
+Matteo Pasquinelli: [Page rank y la economía del conocimiento](https://www.academia.edu/1992027/Googles_PageRank_algorithm_a_diagram_of_cognitive_capitalism_and_the_rentier_of_the_common_intellect)
+
+Teoría y potíticas del los motores de búsqueda: [Society of the Query](http://networkcultures.org/blog/publication/society-of-the-query-reader-reflections-on-web-search/)
 
 ### Flickr
 
@@ -89,11 +90,11 @@ Guy Debord: [A User’s Guide to Détournement](http://www.bopsecrets.org/SI/det
 
 ### Gif me
     
-    * [cats jump search](https://gifme.io/search/q?query=cats+jump)
+[cats jump search](https://gifme.io/search/q?query=cats+jump)
 
 ### Twitter
 
-    * [#foodporn](https://twitter.com/search?q=%23Foodporrn&src=tyah&mode=photos)
+[#foodporn](https://twitter.com/search?q=%23Foodporrn&src=tyah&mode=photos)
 
 
 ### Repositorios y archivos:
