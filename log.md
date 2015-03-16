@@ -124,3 +124,6 @@ Silvio Lorusso [Google Image Quiz](http://google-image-quiz.net/)
 Lauren Comito: [Search Engine](http://www.laurencomito.com/category/projects/search-engine/)
 
 Eric Souther [Search engine vision: chair](http://unseensignals.com/search-engine-vision-chair.html)
+
+
+### Producción colectiva en red
