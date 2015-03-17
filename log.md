@@ -127,3 +127,13 @@ Eric Souther [Search engine vision: chair](http://unseensignals.com/search-engin
 
 
 ### Producción colectiva en red
+
+#### Lecturas
+
+Tiziana Terranova.  [Del sentido y la sensibilidad: el trabajo inmaterial en los sistemas abiertos](https://privadotextos.wordpress.com/2012/12/03/del-sentido-y-la-sensibilidad-el-trabajo-inmaterial-en-los-sistemas-abiertos/)
+
+Nicolas Bourriaud, [Estetica Relacional](http://es.scribd.com/doc/20953306/Estetica-relacional-Nicolas-Bourriaud) pags 5 - 25.
+
+Claire Bishop [Estetica relacional y antagonismo](http://salonkritik.net/10-11/2010/08/antagonismo_y_estetica_relacio.php)
+
+Giogio Agamben [Que es un dispositivo ?](http://www.revistasociologica.com.mx/pdf/7310.pdf)
