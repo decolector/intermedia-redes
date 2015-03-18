@@ -130,10 +130,14 @@ Eric Souther [Search engine vision: chair](http://unseensignals.com/search-engin
 
 #### Lecturas
 
-Tiziana Terranova.  [Del sentido y la sensibilidad: el trabajo inmaterial en los sistemas abiertos](https://privadotextos.wordpress.com/2012/12/03/del-sentido-y-la-sensibilidad-el-trabajo-inmaterial-en-los-sistemas-abiertos/)
+Jeff Howe [The rise of crowdsourcing](http://archive.wired.com/wired/archive/14.06/crowds.html)
 
 Nicolas Bourriaud, [Estetica Relacional](http://es.scribd.com/doc/20953306/Estetica-relacional-Nicolas-Bourriaud) pags 5 - 25.
 
 Claire Bishop [Estetica relacional y antagonismo](http://salonkritik.net/10-11/2010/08/antagonismo_y_estetica_relacio.php)
 
-Giogio Agamben [Que es un dispositivo ?](http://www.revistasociologica.com.mx/pdf/7310.pdf)
+Michael Bawens [La economía de la producción entre iguales](http://p2pfoundation.net/La_econom%C3%ADa_pol%C3%ADtica_de_la_Producci%C3%B3n_entre_iguales)
+
+Yochai Benkler [The wealth of networks](http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf)
+
+Tiziana Terranova,  [Del sentido y la sensibilidad: el trabajo inmaterial en los sistemas abiertos](https://privadotextos.wordpress.com/2012/12/03/del-sentido-y-la-sensibilidad-el-trabajo-inmaterial-en-los-sistemas-abiertos/)
