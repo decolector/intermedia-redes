@@ -1,7 +1,7 @@
 import com.temboo.core.*;
 import com.temboo.Library.Instagram.*;
 
-//Iniciamos sesion con temboo
+//Iniciamos sesion con Temboo
 TembooSession session = new TembooSession("user", "myApp","key");
 
 //Array de imagenes para renderizar
