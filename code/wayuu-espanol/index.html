@@ -1,0 +1,64 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Diccionario Wayuu - Español</title>
+</head>
+<body>
+	<div id="contenedor">
+		<h1>Bienvenido al diccionario Wayuu - Español</h1>
+		<form>
+			<input type="file" id="dict" name="files"/>
+			<input type="text" id="es-in">
+			<button type="button" id="trad">Buscar</button>
+		</form>
+		<div>
+			<h2>Resultado de su búsqueda</h2>
+			<div id="result"></div>
+		</div>
+	</div>
+	<script type="text/javascript" src="libs/jquery/dist/jquery.js"></script>
+	<script type="text/javascript" src="libs/papaparse/papaparse.js"></script>
+	<script type="text/javascript">
+
+		$(document).ready(function(){
+			console.log("Hola Mundo");
+			//// programa que busca en el diccionario
+			var dict;
+
+			var onComplete = function(results, file){
+
+				console.log("Parsed: ", results);
+				dict = results;
+
+			};
+
+
+			var config = {
+				delimiter: ";",
+				header: false,
+				complete: function(results, file){
+
+				console.log("Parsed: ", results);
+				console.log(JSON.stringify(results))
+
+			},
+				error: function(err){
+					console.log("Some err", err);
+				}
+			}
+
+			$.get("dict.csv", function(data){
+				console.log("data: ", data);
+				Papa.parse(data,config);
+
+			});
+
+			//obtener el dato del input de texto
+			$("#trad").on("click", function(){
+				var palabra = $("#es-in").val();
+				console.log(palabra);
+			});
+		});
+	</script>
+</body>
+</html>

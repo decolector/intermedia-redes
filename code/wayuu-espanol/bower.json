@@ -1,0 +1,27 @@
+{
+  "name": "wayuu-espanol",
+  "version": "0.0.1",
+  "homepage": "https://github.com/decolector/intermedia-redes",
+  "authors": [
+    "Camilo Martinez <cmart@decolector.net>"
+  ],
+  "description": "Diccionario Español - Wayuu",
+  "main": "index.html",
+  "keywords": [
+    "translation",
+    "wayuu",
+    "spanish"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
