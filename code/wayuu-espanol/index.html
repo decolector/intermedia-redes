@@ -19,36 +19,34 @@
 	<script type="text/javascript" src="libs/jquery/dist/jquery.js"></script>
 	<script type="text/javascript" src="libs/papaparse/papaparse.js"></script>
 	<script type="text/javascript">
-
+			window.diccionario = [];
 		$(document).ready(function(){
 			console.log("Hola Mundo");
 			//// programa que busca en el diccionario
-			var dict;
 
-			var onComplete = function(results, file){
+			//variable para guardar el dccionario
+			var dicc = [];
 
-				console.log("Parsed: ", results);
-				dict = results;
-
-			};
-
-
+			//configuracion para el parseador
 			var config = {
-				delimiter: ";",
+				delimiter: "\t",
 				header: false,
+				encodig: "utf-8",
+				//esta funcion se ejecuta al terminar de cargar el archivo del diccionario
 				complete: function(results, file){
 
-				console.log("Parsed: ", results);
-				console.log(JSON.stringify(results))
-
+					//console.log(JSON.stringify(results))
+					dicc = results.data;//aqui guardamos el contenido del diccionario en la variable dicc
+					//console.log(dicc);
 			},
 				error: function(err){
 					console.log("Some err", err);
 				}
 			}
 
-			$.get("dict.csv", function(data){
-				console.log("data: ", data);
+			//Aquí cargamos el archivo del diccionario y lo parseamos
+			$.get("wayuu.txt", function(data){
+				//console.log("data: ", data);
 				Papa.parse(data,config);
 
 			});
@@ -57,6 +55,26 @@
 			$("#trad").on("click", function(){
 				var palabra = $("#es-in").val();
 				console.log(palabra);
+				console.log(dicc.length);
+
+				//Buscamos la palabra introducida por el usuario en el diccionario
+
+				for(var i = 0; i < dicc.length; i++ ){
+
+					//Sacamos la palabra del diccionario y la convertimos a minusculas
+					var def = dicc[i][0].toLowerCase();
+
+					//console.log(dicc[i][0]);
+
+					//comparamos la palabra del diccionario con la del usuario
+
+					if(palabra.toLowerCase() == def){
+						console.log("MATCH!!!!");
+						//si hay conincidencia, extraemos la definicion y la escribimos en la seccion de resultado.
+						$("#result").text(dicc[i][1] + ' ' + dicc[i][2]);
+					}
+				}
+				
 			});
 		});
 	</script>
