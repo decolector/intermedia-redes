@@ -19,10 +19,8 @@
 	<script type="text/javascript" src="libs/jquery/dist/jquery.js"></script>
 	<script type="text/javascript" src="libs/papaparse/papaparse.js"></script>
 	<script type="text/javascript">
-			window.diccionario = [];
+
 		$(document).ready(function(){
-			console.log("Hola Mundo");
-			//// programa que busca en el diccionario
 
 			//variable para guardar el dccionario
 			var dicc = [];
@@ -46,7 +44,6 @@
 
 			//Aquí cargamos el archivo del diccionario y lo parseamos
 			$.get("wayuu.txt", function(data){
-				//console.log("data: ", data);
 				Papa.parse(data,config);
 
 			});
