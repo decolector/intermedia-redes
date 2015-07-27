@@ -20,7 +20,7 @@ El curso se desarrollará a través de una dinámica teórico - práctica, en do
 
 ### Módulo 1
 
-    * introducción al Programa. Noción de dispositivo, interacción, delegacion y generatividad. Lectura.
+    * Introducción al Programa: Noción de dispositivo, interacción, delegacion y generatividad. Lectura.
     * Taller 1: introducción a la programación, pensamiento algorítmico. (Processing).
     * Taller 2: Programación, objetos (Processing).
     * Asesorías
@@ -34,7 +34,7 @@ El curso se desarrollará a través de una dinámica teórico - práctica, en do
     * Asesorías
     * Entrega ejercicio #2
 
-### Modulo 3: Proyecto Final ( 10 a 16 )
+### Módulo 3: Proyecto Final
 
     * Trabajo inmaterial, crowdsourcing (teórica)
     * Taller 5: Interfaces Físicas ( processing, arduino ).
@@ -56,20 +56,20 @@ Ejercicio: Entrega del ejercicio del corte o módulo.  En algunos casos esta not
 
 ### Porcentajes
 
-Corte #1
-    Talleres: 20%
-    Lectura: 20%
-    Ejercicio 60%
+**Corte #1**
+* Talleres: 20%
+* Lectura: 20%
+* Ejercicio 60%
 
-Corte #2
-    Talleres: 20%
-    Lectura: 20%
-    Ejercicio 60%
+**Corte #2**
+* Talleres: 20%
+* Lectura: 20%
+* Ejercicio 60%
 
 
-Corte #3
-    Proceso: 30%
-    Proyecto final: 70%
+**Corte #3**
+* Proceso: 30%
+* Proyecto final: 70%
 
 
 ##Bibliografía
