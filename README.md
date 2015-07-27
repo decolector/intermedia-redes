@@ -10,32 +10,39 @@ Desde sus principios, las redes telemáticas se han constituído como un medio d
 
 En este curso los participantes realizarán un acercamiento técnico, conceptual y estético a este medio, buscando apropiar y aprovechar las especificidades del medio.
 
+
 ##Metodología
 
-El curso se desarrollará a través de una dinámica teórico - práctica, en donde se analizarán proyectos artísticos y tecnológicos por un lado, con el apoyo de lecturas relacionadas.  Por otro lado se realizarán ejercicios y asesorías técnicas que buscan proveer algunos fundamentos técnicos básicos para acercarse a la red como medio de creación.
+El curso se desarrollará a través de una dinámica teórico - práctica, en donde se analizarán proyectos artísticos y tecnológicos por un lado, con el apoyo de lecturas relacionadas.  Por otro lado se realizarán ejercicios y asesorías técnicas que buscan proveer algunos fundamentos técnicos básicos para acercarse a la interactividad y la red como medio de creación.
+
 
 ##Contenidos
 
+### Módulo 1
 
-    
-
-### Módulo 2: Apropiación y procesamiento ( sesiones 6 a 9)
-
-    * Acceso y procesamiento de fuentes de informacion. (html)
-    * Base de datos, filtros, seleccion, visualización, busquedas ( dbs, apis )
+    * introducción al Programa. Noción de dispositivo, interacción, delegacion y generatividad. Lectura.
+    * Taller 1: introducción a la programación, pensamiento algorítmico. (Processing).
+    * Taller 2: Programación, objetos (Processing).
+    * Asesorías
     * Entrega ejercicio #1
 
-### Módulo 1: Creación colectiva ( sesiones 2 a 5)
+### Módulo 2
 
-    * Redes sociales, foros, chats.
-    * Crowdsourcing, crowdfunding, estrategias p2p.
+    * Networking, protocolos y bases de datos. (teórica)
+    * Taller 3: networking . ( web browser, editor de texto )
+    * Taller 4: web apis, web services, data parsing ( Processing, web browser)
+    * Asesorías
     * Entrega ejercicio #2
 
 ### Modulo 3: Proyecto Final ( 10 a 16 )
 
-    * Introducción a processing
-    * Introducción a arduino
-    * Entrega Final
+    * Trabajo inmaterial, crowdsourcing (teórica)
+    * Taller 5: Interfaces Físicas ( processing, arduino ).
+    * Taller 6: Internet of Things ( processing, arduino)
+    * Asesorías
+    * Asesorías
+    * Entrega final
+
 
 ##Evaluación
 
@@ -47,12 +54,18 @@ Ejercicio #2: 20%
 
 Proyecto final: 40%
 
+
 ##Bibliografía
 
-    * Brea, Jose Luis; net.art: (no)arte, en una zona temporalmente autónoma; http://aleph-arts.org/pens/net.html
-    * El Abc Del Tactical Media; David Garcia y Geert Lovink; http://aleph-arts.org/pens/abc.html
-    * Blisset Luther, http://aleph-arts.org/pens/01001.html
+    * Agamben, Giorgio, Qué es un dispositivo ? , Sociológica, año 26, número 73, pp. 249-264, mayo-agosto de 2011. [http://www.revistasociologica.com.mx/pdf/7310.pdf](http://www.revistasociologica.com.mx/pdf/7310.pdf)
+
+    *  Alexander Galloway, Protocol: How control exists after decentralization. MIT Press, 2004, Cambridge, Massachusets *
+
+    *  Terranova, Tiziana, Del sentido y la sensibilidad: el trabajo inmaterial en los sistemas abiertos, Curating Inmateriality, Autonomedia 2006. (traduccion al español)[https://privadotextos.wordpress.com/2012/12/03/del-sentido-y-la-sensibilidad-el-trabajo-inmaterial-en-los-sistemas-abiertos/]
+
+
+    * Gene, Nicholas y Beer, David; New Media: Key Concepts, Berg, 2008, New york.*
+
     * Latour, Bruno: Visualizacion y cognicion: pensando con los ojos y con las manos in La Balsa de la Medusa, Ano: 1998, Número: 45-46, páginas 77-128.
-    * Hardt Michael; Trabajo Afectivo; http://aleph-arts.org/pens/index.htm.
 
 
