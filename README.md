@@ -74,15 +74,15 @@ Corte #3
 
 ##Bibliografía
 
-    * Agamben, Giorgio, Qué es un dispositivo ? , Sociológica, año 26, número 73, pp. 249-264, mayo-agosto de 2011. [link](http://www.revistasociologica.com.mx/pdf/7310.pdf)
+* Agamben, Giorgio, Qué es un dispositivo ? , Sociológica, año 26, número 73, pp. 249-264, mayo-agosto de 2011. [link](http://www.revistasociologica.com.mx/pdf/7310.pdf)
 
-    *  Alexander Galloway, Protocol: How control exists after decentralization. MIT Press, 2004, Cambridge, Massachusets *
+*  Galloway, Alexander; Protocol: How control exists after decentralization; MIT Press, 2004, Cambridge, Massachusets *
 
-    *  Terranova, Tiziana, Del sentido y la sensibilidad: el trabajo inmaterial en los sistemas abiertos, Curating Inmateriality, Autonomedia 2006. (traduccion al español)[https://privadotextos.wordpress.com/2012/12/03/del-sentido-y-la-sensibilidad-el-trabajo-inmaterial-en-los-sistemas-abiertos/]
+*  Terranova, Tiziana; Del sentido y la sensibilidad: el trabajo inmaterial en los sistemas abiertos; Curating Inmateriality; Autonomedia 2006. (traduccion al español)[https://privadotextos.wordpress.com/2012/12/03/del-sentido-y-la-sensibilidad-el-trabajo-inmaterial-en-los-sistemas-abiertos/]
 
 
-    * Gene, Nicholas y Beer, David; New Media: Key Concepts, Berg, 2008, New york.*
+* Gene, Nicholas y Beer, David; New Media: Key Concepts; Berg, New york, 2008.
 
-    * Latour, Bruno: Visualizacion y cognicion: pensando con los ojos y con las manos in La Balsa de la Medusa, Ano: 1998, Número: 45-46, páginas 77-128.
+* Latour, Bruno; Visualizacion y cognicion: pensando con los ojos y con las manos; La Balsa de la Medusa, Ano: 1998, Número: 45-46, páginas 77-128.
 
 
