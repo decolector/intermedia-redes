@@ -46,18 +46,35 @@ El curso se desarrollará a través de una dinámica teórico - práctica, en do
 
 ##Evaluación
 
-asistencia y participación; 20%
+### Evaluables
 
-Ejercicio #1: 20%
+Talleres: Se evalúan mediante asistencia y desarrollo de ejercicios en los talleres.
 
-Ejercicio #2: 20%
+Lectura: Se realizarán preguntas en clase, a través de correo electrónico o ten texto impreso.
 
-Proyecto final: 40%
+Ejercicio: Entrega del ejercicio del corte o módulo.  En algunos casos esta nota se puede dividir en proceso y entrega, previo aviso.
+
+### Porcentajes
+
+Corte #1
+    Talleres: 20%
+    Lectura: 20%
+    Ejercicio 60%
+
+Corte #2
+    Talleres: 20%
+    Lectura: 20%
+    Ejercicio 60%
+
+
+Corte #3
+    Proceso: 30%
+    Proyecto final: 70%
 
 
 ##Bibliografía
 
-    * Agamben, Giorgio, Qué es un dispositivo ? , Sociológica, año 26, número 73, pp. 249-264, mayo-agosto de 2011. [http://www.revistasociologica.com.mx/pdf/7310.pdf](http://www.revistasociologica.com.mx/pdf/7310.pdf)
+    * Agamben, Giorgio, Qué es un dispositivo ? , Sociológica, año 26, número 73, pp. 249-264, mayo-agosto de 2011. [link](http://www.revistasociologica.com.mx/pdf/7310.pdf)
 
     *  Alexander Galloway, Protocol: How control exists after decentralization. MIT Press, 2004, Cambridge, Massachusets *
 
