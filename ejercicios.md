@@ -22,10 +22,12 @@ Tomar nota sobre cómo responden las personas a las diferentes estrategias y sac
 
 * Documento escrito ( max: 1 pag ) conteniendo: a) La intención, deseo o urgencia que l@ motivó a realizar los dispositivos y b) las conclusiones que sacó de la experiencia.
 
+* Documentación de la experiancia
+
 #### Fechas
 
-Avance: Agosto 31.
+* Avance: Agosto 31.
 
-Entrega: Septiembre 7.
+* Entrega: Septiembre 7.
 
 
