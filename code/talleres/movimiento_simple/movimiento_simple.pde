@@ -66,16 +66,43 @@ void draw(){
 void keyPressed(){
   //Al presionar la tecla 's'...
   if(key == 's'){
-    
-    //.. aumentamos la velocidad
-    velx++;
-    vely++;
+    //.. aumentamos la velocidad segun la direccion del movimiento
+
+    if(velx > 0 ){
+      velx++;
+    }else{
+      velx--;
+    }
   }
   
   //Al presionar la tecla 'a'
   if(key == 'a'){
-    //...aumentamos la velocidad en y
-    vely--;
-    vely--;
+  //...aumentamos la velocidad en y
+    if(vely > 0){
+      vely++;
+    }else{
+      vely--;
+    }
+  }
+  
+   if(key == 'q'){
+    //.. aumentamos la velocidad segun la direccion del movimiento
+
+    if(velx < 0 ){
+      velx--;
+    }else{
+      velx++;
+    }
+  }
+  
+  //Al presionar la tecla 'a'
+  if(key == 'w'){
+  //...aumentamos la velocidad en y
+    if(vely > 0){
+      vely--;
+    }else{
+      vely++;
+    }
+
   }
 }
