@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title> Prueba con forma</title>
+        <link rel="stylesheet" href="styles.css">
+        <script type="text/javascript">
+            function loadText(){
+                var saludo = "De la Habana viene un barco cargado de " + document.getElementById("nombre").value;
+                document.getElementById("result").innerHTML = saludo;
+            }
+        </script>
+    </head>
+    <body>
+    	<h1>Importador de productos</h1>
+        <div id="result">
+        </div>
+        <form id="forma">
+            <input class="caja" type="text" id="nombre" placeholder="Encargue su producto">
+            <button type="button" onclick="loadText()">Importar!</button>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,20 @@
+@font-face{
+	font-family: 'brawler';
+	src: url("brawler/Brawler.otf");
+}
+
+h1{
+	font-family: brawler;
+	font-size: 36px;
+}
+
+#result{
+	display: block;
+	margin: 10px;
+	font-family: brawler;
+	font-size: 18px;
+}
+
+.caja{
+	width: 300px;
+}

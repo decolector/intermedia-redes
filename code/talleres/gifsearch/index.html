@@ -1,0 +1,49 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Gyphy search</title>
+</head>
+<body>
+	<h1>Gif search</h1>
+
+	<form action="" id="search">
+
+		<input name="termino" id="termino" type="text" placeholder="Escriba su búsqueda">
+		<input type="submit" value="buscar!">
+	</form>
+	<div id="results">
+
+	</div>
+	<script src="jquery-1.11.3.js"></script>
+	<script>
+		//en el evento de envio de la forma
+		$(document).on('submit', function(e){
+
+			//cancelamos el comportamiento por defecto
+			e.preventDefault();
+			//obtenemos el termino y lo guardamos en una variable
+			var termino = $('#termino').val();
+
+			//creamos la dirección de búsqueda en el api de giphy
+			var searchurl = 'http://api.giphy.com/v1/gifs/search?q='+ termino +'&limit=10&&api_key=dc6zaTOxFJmzC '
+			console.log(termino);
+			//realizamos la peticion con jquery
+			$.get(searchurl, function(data){
+				console.log(data.data);
+
+				var results = data.data;
+				//iteramos sobre los resultados
+				results.forEach(function(item){
+					console.log(item);
+					//obtenemos la dirección de incrustación del gif
+					//y creamos un iframe para insertarlo
+					$('#results').append(
+						'<iframe src="' + item.embed_url + '">'
+					)
+				})
+			})
+
+		})
+	</script>
+</body>
+</html>
