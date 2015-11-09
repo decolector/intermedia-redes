@@ -39,6 +39,8 @@ Tomar nota sobre cómo responden las personas a las diferentes estrategias y sac
 
 ### Entrega de anteproyecto: Noviembre 16 (grupo lunes), Noviembre 13 (grupo viernes).
 
+En esta fecha indicada se debe entregar una anteproyecto, que es un documento escrito de una página describiendo el proyecto que se quiere realizar para la entrega final, los integrantes y los medios que se van a utilizar.
+
 ### Trabajo grupal o individual de max 3 integrantes.
 
 Durante las últimas dos clases hemos visto diferentes aproximaciones teóricas y artísticas a la idea de creación colectiva a travéz de la red.  El objetivo de este ejercicio es poner en práctica estas ideas al crear estrategias que concientemente integren las capacidades y intencionalidades de otros en dinámicas colectivas de creación, y al realizar es proceso, podremos reflexionar sobre las relaciones sociales y las prácticas que surgen en cada una de las configuraciones y situaciones que creamos.
@@ -57,5 +59,9 @@ El ejercicio debe cumplir con los siguientes parámetros:
 3. Ustedes deben ser quienes idean el proceso y lo organizan.
 
 4. La participación y organización de las personas debe ser realizada a travéz de algún medio de comunicación o algún tipo de mediación que permita registrar el proceso ( por medio de cartas, grabaciones telefónicas, emails, redes sociales, contratos, documentos, instruciones, videos, etc.).
+
+### Anteproyecto:
+
+
 
 Como siempre, pueden consultar cualquier duda por este medio.
