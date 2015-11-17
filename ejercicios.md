@@ -65,3 +65,14 @@ El ejercicio debe cumplir con los siguientes parámetros:
 
 
 Como siempre, pueden consultar cualquier duda por este medio.
+
+
+## Horario de Reposiciones:
+
+	Nov 17, 1:00PM a 4:00 PM Lab 109 Atico
+
+	Nov 19, 7:00AM a  11:00AM Lab 109 Atico
+
+	Nov 24, 11:00 AM a 1:00PM Lab 102 Atico
+
+	Nov 26, 3:00PM a 6:00PM Lab 110 Atico
