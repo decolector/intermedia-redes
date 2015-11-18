@@ -31,9 +31,27 @@ Tomar nota sobre cómo responden las personas a las diferentes estrategias y sac
 * Entrega: Septiembre 7.
 
 
+## Ejercicio Web:
+
+### Fecha de entrega: Diciembre 4 00:00 AM, Por correo electrónico
+
+### Trabajo Individual o grupal
+
+En las últimas clases hemos vimos una introducción a tecnologías web ( html5, css3, JavaScript ) y sus posibilidades para la creación.  Una de las principales características de este medio es la posibilidades de combinacion de diferentes medios en una misma página ( Documento HTML ), incluso si esos medios ( imágenes. videos, datos, audio, etc. ) se encuentran distribuídos en Internet.  Esta posibilidad hace de las tecnologías web un medio de creación con un componente altamente intertextual, que ayudado a dinamizar los fenómenos culturales propios de la red.
+
+Para finalizar esta parte del curso deben entregar un ejercicio realizado en una o mas de las tecnologías que vimos durante este corte ( html5, css, html).  El objetivo del ejercicio no es demostrar un nivel avanzado en el manejo de estas tecnologías, sino por el contrario lograr apropiar y algo de lo que vimos en clase para crear un collage de información, un mashup o palimpsesto hecho de información que puedan encontrar en la web.  La idea es aprovechar creativamente este aspecto intertextual de las herramientas que vimos en clase.
+
+
+Para la entrega pueden realizar un ejercicio en solo html5, html5 + css, html5 + css + javascript.  Cualquiera de las anteriores combinaciones es válida.
+
+### Entregables
+
+Para entregar el ejercicio deben comprimir en un .zip la carpeta del proyecto que contiene los archivos del proyecto: ( archivos .html, .css o .js ). Despues pueden enviarla a cmart@decolector.net antes de la fecha y hora límite.
+
+
 ## Trabajo Final:
 
-### Fecha de entrega: Noviembre 27 8:00 am a 10:30 am
+### Fecha de entrega: Noviembre 25 8:00 am a 10:30 am
 
 ### Lugar: Laboratorio Ático 101
 
@@ -45,7 +63,7 @@ En esta fecha indicada se debe entregar una anteproyecto, que es un documento es
 
 Durante las últimas dos clases hemos visto diferentes aproximaciones teóricas y artísticas a la idea de creación colectiva a travéz de la red.  El objetivo de este ejercicio es poner en práctica estas ideas al crear estrategias que concientemente integren las capacidades y intencionalidades de otros en dinámicas colectivas de creación, y al realizar es proceso, podremos reflexionar sobre las relaciones sociales y las prácticas que surgen en cada una de las configuraciones y situaciones que creamos.
 
-###Descripcion:
+### Descripcion:
 
 El ejercicio consiste en realizar un proceso de creación colectiva en el que cada uno de ustedes integre [cualquiera de las siguientes] el trabajo, creatividad, habilidades, opiniones o emociones de otra(s) personas y que resulte en una obra de arte colectiva.  La cantidad de personas que participan la determinan ustedes, pueden ser una o más.  Igualmente el medio en el que decidan trabajar es desición autónoma ( pueden ser dibujos, escritos, piezas audiovisuales, documentos, páginas web, instalaciones, etc)  La idea es que cada uno de ustedes determine y diseñe conscientemente este proceso de partcipacion y lo organizen, de tal forma que en la realización de este proceso las relaciones de intercambio que se crean, reflejan la intencionalidad de ustedes como autores del trabajo.  Por ejemplo mientras que un ejercicios puede crear una relación formal y racional de intercambio de servicios a través del uso de un contrato, otro ejercicio puede crear relaciones mas libres de expresión individual mediante el uso de una convocatoria libre y horizontal usando redes sociales u otro medio de comunicación.
 
