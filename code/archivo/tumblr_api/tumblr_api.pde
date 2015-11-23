@@ -25,7 +25,8 @@ void runRetrievePostsWithTagChoreo() {
   // Create the Choreo object using your Temboo session
   RetrievePostsWithTag retrievePostsWithTagChoreo = new RetrievePostsWithTag(session);
 
-  // Set inputs
+  // Configurando la busqueda en tumblr, 
+  //aca es necesario el oauth secret o api key que entrega tumblr cuando registramos la aplicacion. 
   retrievePostsWithTagChoreo.setAPIKey("instagram-api-key");
   retrievePostsWithTagChoreo.setTag("mytag");
 
