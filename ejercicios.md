@@ -53,7 +53,7 @@ Para entregar el ejercicio deben comprimir en un .zip la carpeta del proyecto qu
 
 ### Fecha de entrega: Noviembre 25 8:00 am a 10:30 am
 
-### Lugar: Laboratorio Ático 101
+### Lugar: Laboratorio Ático 103
 
 ### Entrega de anteproyecto: Noviembre 16 (grupo lunes), Noviembre 13 (grupo viernes).
 
