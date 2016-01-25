@@ -29,8 +29,8 @@ El curso se desarrollará a través de una dinámica teórico - práctica, en do
 ### Módulo 2
 
     * Networking, protocolos y bases de datos. (teórica)
-    * Taller 3: networking . ( web browser, editor de texto )
-    * Taller 4: web apis, web services, data parsing ( Processing, web browser)
+    * Taller 3: networking . ( Processing )
+    * Taller 4: web apis, web services, data parsing ( Processing )
     * Asesorías
     * Entrega ejercicio #2
 
@@ -80,9 +80,6 @@ Ejercicio: Entrega del ejercicio del corte o módulo.  En algunos casos esta not
 
 *  Terranova, Tiziana; Del sentido y la sensibilidad: el trabajo inmaterial en los sistemas abiertos; Curating Inmateriality; Autonomedia 2006. [traduccion al español](https://privadotextos.wordpress.com/2012/12/03/del-sentido-y-la-sensibilidad-el-trabajo-inmaterial-en-los-sistemas-abiertos/)
 
-
 * Gene, Nicholas y Beer, David; New Media: Key Concepts; Berg, New york, 2008.
 
 * Latour, Bruno; Visualizacion y cognicion: pensando con los ojos y con las manos; La Balsa de la Medusa, Ano: 1998, Número: 45-46, páginas 77-128.
-
-
