@@ -2,7 +2,7 @@ import com.temboo.core.*;
 import com.temboo.Library.Instagram.*;
 
 //Iniciamos sesion con Temboo
-TembooSession session = new TembooSession("user", "myApp","key");
+TembooSession session = new TembooSession("account", "app", "key");
 
 //Array de imagenes para renderizar
 PImage[] images = new PImage[0];
@@ -49,12 +49,15 @@ void runSearchMediaChoreo() {
   // Creamos el objeto choreo usando la sesion de Temboo;
   SearchMedia searchMediaChoreo = new SearchMedia(session);
 
+  // Set inputs
+  searchMediaChoreo.setClientID("client_id");
+  searchMediaChoreo.setLatitude("40.7128");
+  searchMediaChoreo.setLongitude("74.0059");
   // Configuramos las opciones de busqueda
-  searchMediaChoreo.setClientID("clientid");
 
   //Bogota lat long
-  searchMediaChoreo.setLatitude("4.5981");
-  searchMediaChoreo.setLongitude("74.0758");
+  //searchMediaChoreo.setLatitude("4.5981");
+  //searchMediaChoreo.setLongitude("74.0758");
 
   // Ejecutamos el choreo y guardamos los resltados en la variable
   SearchMediaResultSet searchMediaResults = searchMediaChoreo.run();
@@ -89,7 +92,10 @@ void parseResponse(JSONObject response){
       //Luego el la imagen de baja resolucion
       JSONObject low = imgs.getJSONObject("low_resolution");  
       //Luego la url
-      String url = low.getString("url");
+      String url_str = low.getString("url");
+      //en la url que llega nos sobra lo que va despues del '?', esta línea recorta esa parte
+      String url = split(url_str, '?')[0];
+      //println(url);
       //Cargamos la imagen con la url
       PImage img = loadImage(url);
       //Guardamos la imagen en la lista de imagenes a mostrar
@@ -97,5 +103,3 @@ void parseResponse(JSONObject response){
     }
   }
 }
-
-
