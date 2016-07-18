@@ -1,20 +1,111 @@
+### Sesión 0: Introducción al arte y la tecnología:
+
+Do it
+
+http://www.e-flux.com/projects/do_it/homepage/do_it_home.html
+
+
+RTMark
+
+https://www.youtube.com/watch?v=OVT4T7OR3iQ
+
+Jodi
+
+http://geogoo.net/
+
+Quake mods
+
+https://www.youtube.com/watch?v=24KQiy0U_Uk
+
+
+Rafael Rozendaal
+
+http://www.newrafael.com/lenticulars/
+
+http://www.newrafael.com/websites/
+
+
+Mesa di Voce
+
+https://www.youtube.com/watch?v=STRMcmj-gHc
+
+
+Telegarden
+
+https://www.youtube.com/watch?v=gbyy5vSg8w8
+
+Face Substitution
+
+https://vimeo.com/29348533
+
+Good Morning Twitter
+http://blog.blprnt.com/blog/blprnt/goodmorning
+
+
+Aaron Koblin
+
+http://www.aaronkoblin.com/work/flightpatterns/
+
+Constraint City
+
+http://www.yugo.at/processing/?what=constraint
+
+
+Adam Harvey ( counter surveillance )
+
+https://ahprojects.com/projects/
+
+01001.org
+
+Stolen pieces: http://0100101110101101.org/stolen-pieces/
+Bienale.py : http://0100101110101101.org/biennale-py/
+
+Aram Bartholl
+
+http://datenform.de/areyouhuman.html
+
+http://datenform.de/point-of-view.html
+
+Cory Arcangel
+
+http://www.coryarcangel.com/things-i-made/2014-018-photoshop-cs
+
+http://www.coryarcangel.com/things-i-made/2002-001-super-mario-clouds
+
+Clement Valla: [Postcards from google earth](http://clementvalla.com/work/postcards-from-google-earth/)
+
+Nervous System
+
+http://n-e-r-v-o-u-s.com/
+
+Collettivo Carmine
+
+http://www.copons.it/carmine/project/oraculum/
+
+Evan Roth
+
+http://www.evan-roth.com/work/cache-portraits/
+
+Oliver Laric
+* 2000 cliparts: http://oliverlaric.com/2000cliparts.htm
+
 ## Sesión 1: Introducción al net.art
 
 Referentes históricos del net.art.  Inicios
 
-###Historia del net.art: 
+###Historia del net.art:
     http://bookchin.net/history.html
 
-###webstalker: 
+###webstalker:
     https://www.youtube.com/watch?v=iOIIlbMZOIE
 
 ###etoy  
     https://www.youtube.com/watch?v=1jvEB72UE9Q
 
-###Mark Napier, shredder: 
+###Mark Napier, shredder:
     http://www.potatoland.org/shredder/shredder.html
 
-###RTmark, Barbie Liberation organization: 
+###RTmark, Barbie Liberation organization:
     https://www.youtube.com/watch?v=OVT4T7OR3iQ
 
 
@@ -27,14 +118,14 @@ Referentes históricos del net.art.  Inicios
     Sonic Outlaws: http://www.ubu.com/film/baldwin_sonic.html
 
 ### Oliver Laric
-    
+
     * Lincoln 3D scans: http://lincoln3dscans.co.uk/
     * 2000 cliparts: http://oliverlaric.com/2000cliparts.htm
     * up down: http://oliverlaric.com/b.htm
     * misile variations: http://oliverlaric.com/missilevariations.htm
     * Versions: http://oliverlaric.com/versions.htm
 
-###01001.org: 
+###01001.org:
 
     * Stolen pieces: http://0100101110101101.org/stolen-pieces/
 
@@ -44,7 +135,7 @@ Referentes históricos del net.art.  Inicios
 
     * Life sharing: http://0100101110101101.org/life-sharing/
 
-    * biennale.py: 
+    * biennale.py:
 
 
 ### Eddo Stern
@@ -89,7 +180,7 @@ Teoría y potíticas del los motores de búsqueda: [Society of the Query](http:/
 
 
 ### Gif me
-    
+
 [cats jump search](https://gifme.io/search/q?query=cats+jump)
 
 ### Twitter
@@ -102,7 +193,7 @@ Teoría y potíticas del los motores de búsqueda: [Society of the Query](http:/
 * [archive.org](https://archive.org/)
 * [ubu web](http://www.ubuweb.com/)
 * [gif me](https://gifme.io)
-* [meme dump] (http://memedump.com/)
+* [meme dump](http://memedump.com/)
 * [mugshots](http://mugshots.com/)
 * [know your meme](http://knowyourmeme.com/)
 * [Vine](https://vine.co/)
