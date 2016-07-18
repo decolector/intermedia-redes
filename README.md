@@ -20,7 +20,7 @@ El curso se desarrollará a través de una dinámica teórico - práctica, en do
 
 ### Módulo 1
 
-    * Introducción al Programa: Noción de dispositivo, interacción, delegacion y generatividad. Lectura.
+    * introducción al Programa. Noción de dispositivo, interacción, delegacion . Lectura.
     * Taller 1: introducción a la programación, pensamiento algorítmico. (Processing).
     * Taller 2: Programación, objetos (Processing).
     * Asesorías
@@ -28,20 +28,19 @@ El curso se desarrollará a través de una dinámica teórico - práctica, en do
 
 ### Módulo 2
 
-    * Networking, protocolos y bases de datos. (teórica)
-    * Taller 3: networking . ( Processing )
-    * Taller 4: web apis, web services, data parsing ( Processing )
-    * Asesorías
-    * Entrega ejercicio #2
-
-### Módulo 3: Proyecto Final
-
     * Trabajo inmaterial, crowdsourcing (teórica)
+    * Taller 3: networking . ( libreria s de red y osc )
+    * Taller 4: web apis, web services, data parsing ( Processing, web browser)
+    * Asesorías
+    * Entrega: Corte de avance proyecto final.
+
+### Modulo 3: Proyecto Final ( 10 a 16 )
+
     * Taller 5: Interfaces Físicas ( processing, arduino ).
     * Taller 6: Internet of Things ( processing, arduino)
     * Asesorías
     * Asesorías
-    * Entrega final
+    * Entrega final de proyecto.
 
 
 ##Evaluación
@@ -81,5 +80,7 @@ Ejercicio: Entrega del ejercicio del corte o módulo.  En algunos casos esta not
 *  Terranova, Tiziana; Del sentido y la sensibilidad: el trabajo inmaterial en los sistemas abiertos; Curating Inmateriality; Autonomedia 2006. [traduccion al español](https://privadotextos.wordpress.com/2012/12/03/del-sentido-y-la-sensibilidad-el-trabajo-inmaterial-en-los-sistemas-abiertos/)
 
 * Gene, Nicholas y Beer, David; New Media: Key Concepts; Berg, New york, 2008.
+
+
 
 * Latour, Bruno; Visualizacion y cognicion: pensando con los ojos y con las manos; La Balsa de la Medusa, Ano: 1998, Número: 45-46, páginas 77-128.
