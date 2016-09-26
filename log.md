@@ -234,3 +234,10 @@ Michael Bawens [La economía de la producción entre iguales](http://p2pfoundati
 Yochai Benkler [The wealth of networks](http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf)
 
 Tiziana Terranova,  [Del sentido y la sensibilidad: el trabajo inmaterial en los sistemas abiertos](https://privadotextos.wordpress.com/2012/12/03/del-sentido-y-la-sensibilidad-el-trabajo-inmaterial-en-los-sistemas-abiertos/)
+
+
+### Blogs y otros recursos
+
+We Make Money not art: http://we-make-money-not-art.com/
+
+Rhizome: http://rhizome.org/
