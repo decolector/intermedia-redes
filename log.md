@@ -217,6 +217,8 @@ Lauren Comito: [Search Engine](http://www.laurencomito.com/category/projects/sea
 Eric Souther [Search engine vision: chair](http://unseensignals.com/search-engine-vision-chair.html)
 
 
+Tino Sehgal
+
 ### Producción colectiva en red
 
 #### Lecturas
