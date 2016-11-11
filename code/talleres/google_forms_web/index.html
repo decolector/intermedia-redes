@@ -5,8 +5,10 @@
 	<title>Gyphy search</title>
 </head>
 <body>
-	<h1>Google sheets</h1>
 
+
+	<h1>Google sheets</h1>
+<iframe src="//giphy.com/embed/l2R0aKwejYr8ycKAg" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dominosuk-pizza-feelings-dominos-l2R0aKwejYr8ycKAg">via GIPHY</a></p>
 	<form action="" id="load">
 
 		<input type="submit" value="cargar!">
@@ -14,9 +16,9 @@
 	<div id="results">
 
 	</div>
-	<script type="text/javascript" src="js/jquery-1.11.3.js">
 
-	</script>
+
+	<script type="text/javascript" src="js/jquery-1.11.3.js"></script>
 	<script src="js/temboo.js"></script>
 	<!-- Adjust to point at the copy of the Temboo JavaScript SDK on your server -->
 
@@ -26,13 +28,20 @@
 // You may need to adjust the path to reflect the URI of your server proxy
 
 $(document).ready(function(){
+
+	var files = []; //lista de urls de imagenes y sonidos
+	//cargamos el archivo json y guardamos la data en files
+	$.get('js/data_arr.json', function(data){
+		//console.log(data);
+		files = data;
+	});
 	var temboo = new TembooProxy('/proxy-server');
 
 	// Add the getValues Choreo
 	var getValuesChoreo = temboo.addChoreo('jsGetValues');
 
 	// Add inputs
-	getValuesChoreo.setInput('Range', 'respuestas!A2:C2');
+	getValuesChoreo.setInput('Range', 'respuestas!A2:Q400');
 	getValuesChoreo.setInput('SpreadsheetID', '1IHCPpUCUfYd-BpXI6UrUc-t7Bs8Uxan1d6X-MMHKhRk');
 
 	// Success callback
@@ -52,16 +61,30 @@ $(document).ready(function(){
 	            console.log(name + ': ' + outputs[name]);
 	        }
 	    }
+			//obrencion de la data que nos interesa
 			var results = $.parseJSON(outputs["Response"]);
-			var values = results["values"];
-			console.log(values[0][0]);
 
+			var values = results["values"]; //respuestas
 
+			//iteracion sobre la lista de respuestas
 			for(var i = 0; i < values.length; i++){
+				console.log(files[i]);
 				var ul = $("<ul></ul>").appendTo("#results");
+				//accedemos a las celdas de la filterName
+
 				for(var j = 0; j < values[i].length; j++){
-					ul.append("<li>" + values[i][j] + "</li>");
+					var respuesta = values[i][j];
+					var url = files[i][j];
+					console.log(url);
+					ul.append("<li>" + respuesta + "</li>");
+
+					if (typeof(url) != "undefined"){
+						if()
+						ul.append('<li><img src="' + url + '"></li>');
+					}
+
 				}
+
 			}
 
 	};
