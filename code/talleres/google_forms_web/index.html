@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Gyphy search</title>
+</head>
+<body>
+	<h1>Google sheets</h1>
+
+	<form action="" id="load">
+
+		<input type="submit" value="cargar!">
+	</form>
+	<div id="results">
+
+	</div>
+	<script type="text/javascript" src="js/jquery-1.11.3.js">
+
+	</script>
+	<script src="js/temboo.js"></script>
+	<!-- Adjust to point at the copy of the Temboo JavaScript SDK on your server -->
+
+
+<script>
+// Instantiate the client proxy
+// You may need to adjust the path to reflect the URI of your server proxy
+
+$(document).ready(function(){
+	var temboo = new TembooProxy('/proxy-server');
+
+	// Add the getValues Choreo
+	var getValuesChoreo = temboo.addChoreo('jsGetValues');
+
+	// Add inputs
+	getValuesChoreo.setInput('Range', 'respuestas!A2:C2');
+	getValuesChoreo.setInput('SpreadsheetID', '1IHCPpUCUfYd-BpXI6UrUc-t7Bs8Uxan1d6X-MMHKhRk');
+
+	// Success callback
+	var showResult = function(outputs, outputFilters) {
+	    // Display outputs
+	    if(outputFilters) {
+	    	// Display named output filters
+	        for(var name in outputFilters) {
+	            console.log(name + ':');
+	            for(var item in outputs[name]) {
+	                console.log('    ' + outputs[name][item]);
+	            }
+	        }
+	    } else {
+	    	// Display raw outputs
+	        for(var name in outputs) {
+	            console.log(name + ': ' + outputs[name]);
+	        }
+	    }
+			var results = $.parseJSON(outputs["Response"]);
+			var values = results["values"];
+			console.log(values[0][0]);
+
+
+			for(var i = 0; i < values.length; i++){
+				var ul = $("<ul></ul>").appendTo("#results");
+				for(var j = 0; j < values[i].length; j++){
+					ul.append("<li>" + values[i][j] + "</li>");
+				}
+			}
+
+	};
+
+	// Error callback
+	var showError = function(error) {
+	    if(error.type === 'DisallowedInput') {
+	        console.log(error.type + ' error: ' + error.inputName);
+	    } else {
+	        console.log(error.type + ' error: ' + error.message);
+	    }
+	};
+
+	$('#load').submit(function(event){
+		event.preventDefault();
+		getValuesChoreo.execute(showResult, showError);
+	});
+	// Run the Choreo, specifying success and error callback handlers
+
+});
+
+</script>
+</body>
+</html>

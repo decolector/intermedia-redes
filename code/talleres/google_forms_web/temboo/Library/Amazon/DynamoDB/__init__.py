@@ -1,0 +1,14 @@
+from temboo.Library.Amazon.DynamoDB.BatchGetItem import BatchGetItem, BatchGetItemInputSet, BatchGetItemResultSet, BatchGetItemChoreographyExecution
+from temboo.Library.Amazon.DynamoDB.BatchWriteItem import BatchWriteItem, BatchWriteItemInputSet, BatchWriteItemResultSet, BatchWriteItemChoreographyExecution
+from temboo.Library.Amazon.DynamoDB.CreateTable import CreateTable, CreateTableInputSet, CreateTableResultSet, CreateTableChoreographyExecution
+from temboo.Library.Amazon.DynamoDB.DeleteItem import DeleteItem, DeleteItemInputSet, DeleteItemResultSet, DeleteItemChoreographyExecution
+from temboo.Library.Amazon.DynamoDB.DeleteTable import DeleteTable, DeleteTableInputSet, DeleteTableResultSet, DeleteTableChoreographyExecution
+from temboo.Library.Amazon.DynamoDB.DescribeLimits import DescribeLimits, DescribeLimitsInputSet, DescribeLimitsResultSet, DescribeLimitsChoreographyExecution
+from temboo.Library.Amazon.DynamoDB.DescribeTable import DescribeTable, DescribeTableInputSet, DescribeTableResultSet, DescribeTableChoreographyExecution
+from temboo.Library.Amazon.DynamoDB.GetItem import GetItem, GetItemInputSet, GetItemResultSet, GetItemChoreographyExecution
+from temboo.Library.Amazon.DynamoDB.ListTables import ListTables, ListTablesInputSet, ListTablesResultSet, ListTablesChoreographyExecution
+from temboo.Library.Amazon.DynamoDB.PutItem import PutItem, PutItemInputSet, PutItemResultSet, PutItemChoreographyExecution
+from temboo.Library.Amazon.DynamoDB.Query import Query, QueryInputSet, QueryResultSet, QueryChoreographyExecution
+from temboo.Library.Amazon.DynamoDB.Scan import Scan, ScanInputSet, ScanResultSet, ScanChoreographyExecution
+from temboo.Library.Amazon.DynamoDB.UpdateItem import UpdateItem, UpdateItemInputSet, UpdateItemResultSet, UpdateItemChoreographyExecution
+from temboo.Library.Amazon.DynamoDB.UpdateTable import UpdateTable, UpdateTableInputSet, UpdateTableResultSet, UpdateTableChoreographyExecution
