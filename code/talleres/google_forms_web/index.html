@@ -45,7 +45,11 @@ $(document).ready(function(){
 	getValuesChoreo.setInput('Range', 'respuestas!A2:Q400');
 	getValuesChoreo.setInput('SpreadsheetID', '1IHCPpUCUfYd-BpXI6UrUc-t7Bs8Uxan1d6X-MMHKhRk');
 
-	// Success callback
+	// Esta funcion selecciona todas las respuestas en inserta
+	// los videos e imagenes asociados a ellas
+	// Usar con cuidado, pues toma mucho tiempo en cargar si hay muchas respuestas
+	// en la base de datos
+
 	var showResult = function(outputs, outputFilters) {
 		console.log("RRRR");
 	    // Display outputs
@@ -77,21 +81,27 @@ $(document).ready(function(){
 					var img_url = null;//aqui guardamos la url de la image o video
 					var img_list = img_urls[j];//esta es la lista de urls
 					if(img_list != "" && img_list != "undefined"){
-						if(value == "a" || value.indexOf("a. ") >= 0 ){
-								img_url = img_list[0];
-							}else if(value == "b" || value.indexOf("b. ") >= 0){
-								img_url = img_list[1];
-							}else if(value == "c" || value.indexOf("c. ") >= 0){
-								img_url = img_list[2];
-							}
+
+					//aqui se define la url de la imagen basados en la respuesta
+					if(value == "a" || value.indexOf("a. ") >= 0 ){
+							img_url = img_list[0];
+						}else if(value == "b" || value.indexOf("b. ") >= 0){
+							img_url = img_list[1];
+						}else if(value == "c" || value.indexOf("c. ") >= 0){
+							img_url = img_list[2];
+						}
 					}
-					console.log("url: " + img_url);
+					//console.log("url: " + img_url);
+					//aqui se define si es una imagen de giphy o un video de youtube
 					if(img_url){
 						if( img_url.indexOf("youtube") !== -1){
-								console.log("youtube");
+								console.log("youtube embed: " + img_url);
+								//si es de youtube, insertamos el código de embed
+								//que es un <iframe>
 								$('#results').append(img_url);
 							}else{
-								console.log("giphy");
+								console.log("giphy url: " + img_url );
+								//si es de giphy, insertamos un elemento <img>
 								$('#results').append('<img src="' + img_url + '">');
 							}
 						}
@@ -99,7 +109,8 @@ $(document).ready(function(){
 				}
 			};
 
-	// Success callback
+	// Esta funcion selecciona un registro de los resultados
+	// e inserta los elementos en el elemento #results
 	var showResultRandom = function(outputs, outputFilters) {
 			// Display outputs
 			if(outputFilters) {
