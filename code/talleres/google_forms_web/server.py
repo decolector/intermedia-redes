@@ -1,5 +1,5 @@
 #!/usr/bin/Python
-
+# -*- coding: latin-1 -*-
 #Servidor temboo web
 #Este es un simple servidor que hace de proxy o relevo
 #entre una pagina web que usa el sdk de javascript de temboo
