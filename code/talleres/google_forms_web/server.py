@@ -60,6 +60,8 @@ root = Resource()
 root.putChild('', File('index.html'))
 #Servimos el folder con ls sctips de javascript
 root.putChild('js', File('js/'))
+root.putChild('styles', File('styles/'))
+
 #en la direccion /proxy-server esta el endpoint o
 #recurso que se encarga de hacer la peticion a temboo.com
 root.putChild('proxy-server', ProxyServer())

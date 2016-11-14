@@ -1,0 +1,14 @@
+
+
+body{
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: grey;
+}
+
+img{
+  max-width: 200px;
+}
+
+iframe{
+  max-width: 100px;
+}

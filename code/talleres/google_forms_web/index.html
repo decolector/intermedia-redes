@@ -3,6 +3,8 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Gyphy search</title>
+	<link rel="stylesheet" href="/styles/style.css" media="screen" title="no title">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 
@@ -139,23 +141,29 @@ $(document).ready(function(){
 				var img_url = null;
 				var value = respuesta[i];
 				//console.log(img_urls[i]);
-				var file = img_urls[i];
-				console.log("file: " + file );
+				//si la lista de urls no esta vacia
 				if(typeof(img_urls[i]) != "" ){
+					//si la respuesta es a
 					if(value == "a" || value.indexOf("a. ") >= 0 ){
+						  //seleccionamos la primera url de la lista
 							img_url = img_urls[i][0];
-						}else if(value == "b" || value.indexOf("b. ") >= 0){
-							img_url = img_urls[i][1];
-						}else if(value == "c" || value.indexOf("c. ") >= 0){
-							img_url = img_urls[i][2];
+
+						}else if(value == "b" || value.indexOf("b. ") >= 0){ // si es b
+							img_url = img_urls[i][1]; //seleccionamos la segunda url
+						}else if(value == "c" || value.indexOf("c. ") >= 0){ // si es c
+							img_url = img_urls[i][2]; //seleccionamos la tercera url
 						}
 				}
 				console.log("url: " + img_url);
+				//aca verificamos si la url es de youtube o giphy
 				if(img_url){
 					if( img_url.indexOf("youtube") !== -1){
 							console.log("youtube");
+							//si es de youtube es un <iframe>, por lo tanto insertamos el contenido completo
 							$('#results').append(img_url);
 						}else{
+							//si es de giphy, usamos la url como contenido del atributo
+							// src del elemento <img>
 							console.log("giphy");
 							$('#results').append('<img src="' + img_url + '">');
 						}
@@ -172,6 +180,9 @@ $(document).ready(function(){
 	        console.log(error.type + ' error: ' + error.message);
 	    }
 	};
+  //al hacer submit en el boton,
+	//se borra el contenido de la division #results
+	//y se llama de nuevo a temboo por otros resultados
 
 	$('#load').submit(function(event){
 		event.preventDefault();
