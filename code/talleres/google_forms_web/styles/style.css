@@ -12,3 +12,13 @@ img{
 iframe{
   max-width: 100px;
 }
+h1{
+  text-align: center;
+}
+
+#results{
+  width: 80%;
+  border: 2px solid black;
+  margin: 0 auto;
+  padding: 2em;
+}
