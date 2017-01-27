@@ -35,47 +35,47 @@ En la parte práctica se revisarán varias herramientas y métodos de creación 
 
 ### Parte 1: Proceduralidad
 
-* 1. Introducción: Nocion de dispositivo, tecnología, arte y desarrollo tecnológico.
+1. Introducción: Nocion de dispositivo, tecnología, arte y desarrollo tecnológico.
 
-* 2. Lenguaje estructurado: Metatexto, metadatos, objetos y propiedades (html, svg, css, ilustrator, navegador web).
+2. Lenguaje estructurado: Metatexto, metadatos, objetos y propiedades (html, svg, css, ilustrator, navegador web).
 
-* 3. Hipertextualidad e Intertextualidad: hipertexto, mashup, incrustar y recombinación.( html, css, servidor web)
+3. Hipertextualidad e Intertextualidad: hipertexto, mashup, incrustar y recombinación.( html, css, servidor web, networking )
 
-* 4. Instrucción - Ejecución: Instrucciones, partituras, algoritmo, delegación, separacion ejecuctor de ejecucion. ( Processing o Javascript )
+4. Instrucción - Ejecución: Instrucciones, partituras, algoritmo, delegación, separacion ejecuctor de ejecucion. ( Processing o Javascript )
 
-* 5. Generatividad: Modelando la creatividad. (Processing o Javascript)
+5. Generatividad: Modelando la creatividad. (Processing o Javascript)
 
-
-* 6. Generatividad (2):  Trabajo en ejercicio generatividad. (Processing o Javascript)
+6. Generatividad (2):  Trabajo en ejercicio generatividad. (Processing o Javascript)
 
 
 ### Parte 2: Interacción y participación ( red )
 
-* 7. Interacción: Cibernética, feedback, interacción y participación.
+7. Interacción: Cibernética, feedback, interacción y participación.
 
-* 8. Traducción - Transcodificación: Paso de lo visual a lo sonoro y viceversa (Processing )
+8. Traducción - Transcodificación: Paso de lo visual a lo sonoro y viceversa (Processing )
 
-* 9. Transducción: Interfaz física y computación física. ( Arduino )
+9. Transducción: Interfaz física y computación física. ( Arduino )
 
-* 10. Transducción: Interfaz física y computación física. ( Arduino )
+10. Transducción: Interfaz física y computación física. ( Arduino )
 
-* 11. Interacción "natural": Visión artificial y text to speech.(Processing)
+11. Interacción "natural": Visión artificial y text to speech.(Processing)
 
-* 12. Participación: Bases de datos, visualización y cuantificación de la interacción ( javascript, google forms, csv, json )
+12. Interacción "natural": Visión artificial y text to speech.(Processing)
 
-* 13. Data: API's ( html5, javascript y giphy)
 
 ### Parte 3: Proyecto Final
 
-* 14 Desarrollo de proyectos
+13. Presentación de ideas de proyecto final
 
-* 15 Desarrollo de proyectos
+14. Desarrollo de proyectos
 
-* 16 Desarrollo de proyectos
+15. Desarrollo de proyectos
 
-* 17 ENTREGA
+16. Desarrollo de proyectos
 
-* 18 ENTREGA
+17. ENTREGA
+
+18. ENTREGA
 
 
 
@@ -113,5 +113,3 @@ Proyecto Final: Corresponde a la totalidad de la nota del tercer corte. Se tendr
 *  Galloway, Alexander; Protocol: How control exists after decentralization; MIT Press, 2004, Cambridge, Massachusets.
 
 *  Terranova, Tiziana; Del sentido y la sensibilidad: el trabajo inmaterial en los sistemas abiertos; Curating Inmateriality; Autonomedia 2006. [traduccion al español](https://privadotextos.wordpress.com/2012/12/03/del-sentido-y-la-sensibilidad-el-trabajo-inmaterial-en-los-sistemas-abiertos/)
-
-* Gene, Nicholas y Beer, David; New Media: Key Concepts; Berg, New york, 2008.
