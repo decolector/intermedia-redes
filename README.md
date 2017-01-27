@@ -6,62 +6,97 @@ Repositorio de material para la clase Intermedia - Redes.  Artes Visuales, Ponti
 
 ##Descripción
 
-Desde sus principios, las redes telemáticas se han constituído como un medio de experimentación artística con gran potencial, no solo como medio de creación y difusión de contenidos digitales, sino tambien como espacio de interacción.  Numerosos artistas han desarrollado proyectos que potencian, evidencian o cuestionan aspectos formales, culturales y sociales de la red.
+Existe la precepción prevalente de que el computador es una herramienta que debe obedecer neutralmente a los deseos del usuario y que, en el caso de quienes lo usan para crear, su función es proveer una plataforma para pasar de la idea a la materialización de la forma más fácil y fluída posible.  Desde este punto de vista, una herramienta digital debe adaptarse a ciertas formas de producción y creatividad preexistentes y convertirse en un medio transparente y natural para el usuario.
 
-En este curso los participantes realizarán un acercamiento técnico, conceptual y estético a este medio, buscando apropiar y aprovechar las especificidades del medio.
+El problema con esta forma de entender los medios, es que oculta la complejidad que implica su existencia, pero no sólo la complejidad técnica, sino tambien la económica, social y cultural.  Cuando vemos la tecnología como un instrumento desprovisto de intencionalidad, que obedece a nuestros deseos e ideas, estamos ignorando el hecho fundamental de que la ésta siempre inscrita en complejas relaciones de poder.
+
+Una de los aportes fundamentales de la relación entre arte y tecnología es ofrecer, a través de la práctica creativa y la experiencia estética una lectura crítica de los dispositivos, desde el computador cómo herramienta de creación, hasta Internet cómo infraestructura de comunicación y relación social.
+
+El curso propone identificar, analizar y utilizar algunas de las estrategias creativas y críticas que se han producido en el transcurrir de la relación entre arte y la tecnología, específicamente la digital.  Estas estrategias provienen de una lectura y apropiación crítica de los medios digitales, llevados a cabo tanto por teóricos como por artistas, que han decostruído las máquinas y las infraestructuras que nos rodean, evidenciado su potencial poético y transformador.
+
+
+## Objetivos
+
+Identificar y apropiar estrategias de producción artística y con medios digitales, que saquen ventaja de su potencial poético y crítico
+
+Experimentar y producir ejercicios y proyectos con tecnologías digitales actuales, accesibles y libres, que permitan a los participantes identificar y explotar sus usos creativos.
 
 
 ##Metodología
 
-El curso se desarrollará a través de una dinámica teórico - práctica, en donde se analizarán proyectos artísticos y tecnológicos por un lado, con el apoyo de lecturas relacionadas.  Por otro lado se realizarán ejercicios y asesorías técnicas que buscan proveer algunos fundamentos técnicos básicos para acercarse a la interactividad y la red como medio de creación.
+El curso se distribuye en sesiones teorico prácticas, sin embargo el componente práctico prevalecerá sobre la teoría.  
+
+En las sesiones se revisarán proyectos de artistas, proyectos de desarrollo tecnologico y textos que analizen el lenguaje digital.
+
+En la parte práctica se revisarán varias herramientas y métodos de creación digital, usando principalmente lenguajes de marcado o de programación.
 
 
 ##Contenidos
 
-### Módulo 1
+### Parte 1: Proceduralidad
 
-    * introducción al Programa. Noción de dispositivo, interacción, delegacion . Lectura.
-    * Taller 1: introducción a la programación, pensamiento algorítmico. (Processing).
-    * Taller 2: Programación, objetos (Processing).
-    * Asesorías
-    * Entrega ejercicio #1
+* 1. Introducción: Nocion de dispositivo, tecnología, arte y desarrollo tecnológico.
 
-### Módulo 2
+* 2. Lenguaje estructurado: Metatexto, metadatos, objetos y propiedades (html, svg, css, ilustrator, navegador web).
 
-    * Trabajo inmaterial, crowdsourcing (teórica)
-    * Taller 3: networking . ( libreria s de red y osc )
-    * Taller 4: web apis, web services, data parsing ( Processing, web browser)
-    * Asesorías
-    * Entrega: Corte de avance proyecto final.
+* 3. Hipertextualidad e Intertextualidad: hipertexto, mashup, incrustar y recombinación.( html, css, servidor web)
 
-### Modulo 3: Proyecto Final ( 10 a 16 )
+* 4. Instrucción - Ejecución: Instrucciones, partituras, algoritmo, delegación, separacion ejecuctor de ejecucion. ( Processing o Javascript )
 
-    * Taller 5: Interfaces Físicas ( processing, arduino ).
-    * Taller 6: Internet of Things ( processing, arduino)
-    * Asesorías
-    * Asesorías
-    * Entrega final de proyecto.
+* 5. Generatividad: Modelando la creatividad. (Processing o Javascript)
+
+
+* 6. Generatividad (2):  Trabajo en ejercicio generatividad. (Processing o Javascript)
+
+
+### Parte 2: Interacción y participación ( red )
+
+* 7. Interacción: Cibernética, feedback, interacción y participación.
+
+* 8. Traducción - Transcodificación: Paso de lo visual a lo sonoro y viceversa (Processing )
+
+* 9. Transducción: Interfaz física y computación física. ( Arduino )
+
+* 10. Transducción: Interfaz física y computación física. ( Arduino )
+
+* 11. Interacción "natural": Visión artificial y text to speech.(Processing)
+
+* 12. Participación: Bases de datos, visualización y cuantificación de la interacción ( javascript, google forms, csv, json )
+
+* 13. Data: API's ( html5, javascript y giphy)
+
+### Parte 3: Proyecto Final
+
+* 14 Desarrollo de proyectos
+
+* 15 Desarrollo de proyectos
+
+* 16 Desarrollo de proyectos
+
+* 17 ENTREGA
+
+* 18 ENTREGA
+
 
 
 ##Evaluación
 
 ### Evaluables
 
-Talleres: Se evalúan mediante asistencia y desarrollo de ejercicios en los talleres.
-
 Lectura: Se realizarán preguntas en clase, a través de correo electrónico o ten texto impreso.
 
 Ejercicio: Entrega del ejercicio del corte o módulo.  En algunos casos esta nota se puede dividir en proceso y entrega, previo aviso.
 
+Proyecto Final: Corresponde a la totalidad de la nota del tercer corte. Se tendrá en cuenta tanto el proceso cómo el resultado presentado.
+
+
 ### Porcentajes
 
 **Corte #1**
-* Talleres: 20%
 * Lectura: 20%
-* Ejercicio 60%
+* Ejercicios 60%
 
 **Corte #2**
-* Talleres: 20%
 * Lectura: 20%
 * Ejercicio 60%
 
@@ -80,7 +115,3 @@ Ejercicio: Entrega del ejercicio del corte o módulo.  En algunos casos esta not
 *  Terranova, Tiziana; Del sentido y la sensibilidad: el trabajo inmaterial en los sistemas abiertos; Curating Inmateriality; Autonomedia 2006. [traduccion al español](https://privadotextos.wordpress.com/2012/12/03/del-sentido-y-la-sensibilidad-el-trabajo-inmaterial-en-los-sistemas-abiertos/)
 
 * Gene, Nicholas y Beer, David; New Media: Key Concepts; Berg, New york, 2008.
-
-
-
-* Latour, Bruno; Visualizacion y cognicion: pensando con los ojos y con las manos; La Balsa de la Medusa, Ano: 1998, Número: 45-46, páginas 77-128.
