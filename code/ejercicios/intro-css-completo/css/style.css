@@ -3,6 +3,11 @@
     src: url(../fonts/blackjack/blackjack.otf)
 }
 
+@font-face {
+  font-family: bpdots;
+    src: url(../fonts/BPdots/BPdots.otf)
+}
+
 body{
   background-color: black;
   color: white;
@@ -13,6 +18,28 @@ h1{
   font-family: blackjack;
   font-size: 4rem;
   text-align: center;
+}
+
+h2{
+  color: rgb(0,255,0);
+  font-family: bpdots;
+  font-size:3.2rem;
+  text-align: center;
+  position: relative;
+  animation: marquee 5s linear infinite;
+}
+
+@keyframes marquee {
+	from {
+    -webkit-transform: translateX(-100%);
+        -ms-transform: translateX(-100%);
+            transform: translateX(-100%);
+  }
+	to {
+    -webkit-transform: translateX(100%);
+        -ms-transform: translateX(100%);
+            transform: translateX(100%);
+  }
 }
 
 @keyframes animback {
@@ -101,4 +128,26 @@ h1{
   z-index: 30;
   width: 300px;
   height: auto;
+}
+
+/* 210 x 330 */
+.ken {
+    position: relative;
+    top: 30%;
+    left: 50%;
+    width:210px; height:330px; /* exactly the size of an image in our sprite */
+    background-image:url('../img/ken-shoryuken.png');
+    animation: shoryuken steps(6) 1s infinite;
+    z-index: 25;
+}
+
+@keyframes  shoryuken{
+    from { background-position:0px -330px; }
+    to { background-position:-1260px -330px; }
+}
+
+
+@keyframes punch {
+    from { background-position:0px -160px; }
+    to { background-position:-280px -160px; }
 }
