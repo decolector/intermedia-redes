@@ -1,0 +1,102 @@
+@font-face {
+  font-family: blackjack;
+    src: url(../fonts/blackjack/blackjack.otf)
+}
+
+body{
+  background-color: black;
+  color: white;
+}
+
+h1{
+  color: rgb(250, 0, 255);
+  font-family: blackjack;
+  font-size: 4rem;
+  text-align: center;
+}
+
+@keyframes animback {
+	from { background-position: 0 0; }
+	to { background-position: 100% 0; }
+}
+
+@-webkit-keyframes animback{
+  from { background-position: 0 0; }
+  to { background-position: 100% 0; }
+}
+
+
+
+@-webkit-keyframes gradientAnim {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes gradientAnim {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes gradientAnim {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+
+#comp-1{
+  width: 1600px;
+  height: 900px;
+  position: relative;
+  background-image: url(../img/nebula1.jpg);
+  background-position: 0px 0px;
+  background-repeat: repeat-x;
+  -webkit-animation:animback 10s infinite linear;
+  animation: animback 10s infinite linear;
+}
+
+
+
+.piso{
+  width: 100%;
+  height: 100%;
+  background: url(../img/neon-plane.png) no-repeat bottom center;
+  background-size: 100% auto;
+  z-index: 10;
+  position: absolute;
+  bottom: 0;
+  left:0;
+}
+
+.astro{
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  background: red; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(228deg,red, yellow); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(228deg, red, yellow); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(228deg, red, yellow); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(228deg, red, yellow); /* Standard syntax */
+  position: absolute;
+  z-index: 0;
+  top:10%;
+  left:30%;
+  -webkit-animation: gradientAnim 5s ease infinite;
+  -moz-animation: gradientAnim 5s ease infinite;
+  animation: gradientAnim 5s ease infinite;
+}
+
+.palma{
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  width: 250px;
+  height: auto;
+  z-index: 20;
+}
+
+.estatua{
+  position: absolute;
+  top: 45%;
+  left: 60%;
+  z-index: 30;
+}
