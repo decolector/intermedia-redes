@@ -96,7 +96,9 @@ h1{
 
 .estatua{
   position: absolute;
-  top: 45%;
+  top: 40%;
   left: 60%;
   z-index: 30;
+  width: 300px;
+  height: auto;
 }
