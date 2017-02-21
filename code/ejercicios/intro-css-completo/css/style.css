@@ -103,13 +103,13 @@ h2{
   background: -o-linear-gradient(228deg, red, yellow); /* For Opera 11.1 to 12.0 */
   background: -moz-linear-gradient(228deg, red, yellow); /* For Firefox 3.6 to 15 */
   background: linear-gradient(228deg, red, yellow); /* Standard syntax */
-  position: absolute;
+  position: relative;
   z-index: 0;
-  top:10%;
-  left:30%;
   -webkit-animation: gradientAnim 5s ease infinite;
   -moz-animation: gradientAnim 5s ease infinite;
   animation: gradientAnim 5s ease infinite;
+  animation: astro-anim 10s linear infinite;
+
 }
 
 .palma{
@@ -150,4 +150,9 @@ h2{
 @keyframes punch {
     from { background-position:0px -160px; }
     to { background-position:-280px -160px; }
+}
+
+@keyframes astro-anim {
+    from { transform; translate(0 0); }
+    to { transform; translate(100% 100%); }
 }
