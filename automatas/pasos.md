@@ -3,7 +3,6 @@
 
 ## Pasos
 
-![Alt Rule 110](http://mathworld.wolfram.com/images/eps-gif/ElementaryCARule110_1000.gif)
 
 ### Paso 1
 
@@ -12,9 +11,14 @@
 ### Paso 2
 
 ![paso-3](img/paso-2.jpg)
-### Paso 3
 
-![paso-4](img/paso-3.jpg)
+
+### Paso 3
+![Alt Rule 110](http://mathworld.wolfram.com/images/eps-gif/ElementaryCARule030_1000.gif)
+
+![paso-3](img/paso-3.jpg)
+
+
 ### Paso 4
 
 ![paso-1](img/paso-4.jpg)
