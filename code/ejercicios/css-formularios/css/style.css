@@ -1,0 +1,67 @@
+
+input[type="radio"]{
+    /* Hide the input, but have it still be clickable */
+  opacity: 0;
+  padding: 5px 0 4px 24px;
+  float: left;
+  background: url(../img/circle-blue.png) left center no-repeat;
+  background-size: contain;
+
+}
+
+input[type="radio"] + label{
+  margin: 5px;
+  clear: none;
+
+  /* Left padding makes room for image */
+  padding: 5px 0 4px 24px;
+
+  /* Make look clickable because they are */
+  cursor: pointer;
+
+  background: url(../img/circle-blue.png) left center no-repeat;
+  background-size: contain;
+}
+
+input[type="radio"]:checked + label{
+  background: url(../img/circle-red.png) left center no-repeat;
+  background-size: contain;
+}
+
+
+
+input[type="checkbox"]{
+    /* Hide the input, but have it still be clickable */
+  opacity: 0;
+  padding: 5px 0 4px 24px;
+  float: left;
+  background: url(../img/square-blue.png) left center no-repeat;
+  background-size: contain;
+
+}
+
+input[type="checkbox"] + label{
+  margin: 5px;
+  clear: none;
+
+  /* Left padding makes room for image */
+  padding: 5px 0 4px 24px;
+
+  /* Make look clickable because they are */
+  cursor: pointer;
+
+  background: url(../img/square-blue.png) left center no-repeat;
+  background-size: contain;
+}
+
+input[type="checkbox"]:checked + label{
+  background: url(../img/square-red.png) left center no-repeat;
+  background-size: contain;
+}
+
+
+.circles, .squares{
+  clear: left;
+  margin: 25px;
+
+}
