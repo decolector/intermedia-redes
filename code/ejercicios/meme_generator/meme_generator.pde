@@ -96,7 +96,10 @@ void draw(){
   text(fraseB, (width/2) + 2, 502);
   fill(0);
   text(fraseB, width/2, 500);
-
+  //Fuente de la cita
+  textSize(24);
+  text("M. Foucault", 500, 500);
+  
 }
 //cada vez que el usuario hace click
 void mouseClicked(){
