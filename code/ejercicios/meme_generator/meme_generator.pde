@@ -107,3 +107,12 @@ void mouseClicked(){
   fraseA = frasesA[rand_frase];
   fraseB = frasesB[rand_frase];
 }
+
+//si el usuario presiona una tecla 
+void keyPressed(){
+  //y la tecla es la g
+  if(key == 'g'){
+    //guardamos la imagen actual de la ventana
+    saveFrame("meme-###.png");
+  }
+}
