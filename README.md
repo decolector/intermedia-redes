@@ -37,28 +37,29 @@ En la parte práctica se revisarán varias herramientas y métodos de creación 
 
 1. Introducción: Nocion de dispositivo, tecnología, arte y desarrollo tecnológico.
 
-2. Lenguaje estructurado: Metatexto, metadatos, objetos y propiedades (html, svg, css, ilustrator, navegador web).
+2. Instrucción - Ejecución: Instrucciones, partituras, algoritmo, delegación, separacion ejecuctor de ejecucion. ( Processing )
 
-3. Hipertextualidad e Intertextualidad: hipertexto, mashup, incrustar y recombinación.( html, css, servidor web, networking )
+3. Autómatas Celulares en el papel
 
-4. Instrucción - Ejecución: Instrucciones, partituras, algoritmo, delegación, separacion ejecuctor de ejecucion. ( Processing o Javascript )
+4. Autómatas Celuares en el computador
 
 5. Generatividad: Modelando la creatividad. (Processing o Javascript)
 
 6. Generatividad (2):  Trabajo en ejercicio generatividad. (Processing o Javascript)
 
 
+
 ### Parte 2: Interacción y participación ( red )
 
-7. Interacción: Cibernética, feedback, interacción y participación.
+7. Interacción: Cibernética, feedback, participación.
 
-8. Traducción - Transcodificación: Paso de lo visual a lo sonoro y viceversa (Processing )
+8. Trabajando con entradas y salidas del computador.
 
-9. Transducción: Interfaz física y computación física. ( Arduino )
+9. Traducción - Transcodificación: Paso de lo visual a lo sonoro y viceversa (Processing )
 
-10. Transducción: Interfaz física y computación física. ( Arduino )
+10. Entradas de Datos. Visualización. Representacion visual o sonora.
 
-11. Interacción "natural": Visión artificial y text to speech.(Processing)
+11. Networking. La red como espacio de interacción.
 
 12. Interacción "natural": Visión artificial y text to speech.(Processing)
 
