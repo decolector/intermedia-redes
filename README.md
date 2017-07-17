@@ -4,7 +4,7 @@ Repositorio de material para la clase Intermedia - Redes.  Artes Visuales, Ponti
 
 # Programa
 
-##Descripción
+## Descripción
 
 Existe la precepción prevalente de que el computador es una herramienta que debe obedecer neutralmente a los deseos del usuario y que, en el caso de quienes lo usan para crear, su función es proveer una plataforma para pasar de la idea a la materialización de la forma más fácil y fluída posible.  Desde este punto de vista, una herramienta digital debe adaptarse a ciertas formas de producción y creatividad preexistentes y convertirse en un medio transparente y natural para el usuario.
 
@@ -12,7 +12,7 @@ El problema con esta forma de entender los medios, es que oculta la complejidad 
 
 Una de los aportes fundamentales de la relación entre arte y tecnología es ofrecer, a través de la práctica creativa y la experiencia estética una lectura crítica de los dispositivos, desde el computador cómo herramienta de creación, hasta Internet cómo infraestructura de comunicación y relación social.
 
-El curso propone identificar, analizar y utilizar algunas de las estrategias creativas y críticas que se han producido en el transcurrir de la relación entre arte y la tecnología, específicamente la digital.  Estas estrategias provienen de una lectura y apropiación crítica de los medios digitales, llevados a cabo tanto por teóricos como por artistas, que han decostruído las máquinas y las infraestructuras que nos rodean, evidenciado su potencial poético y transformador.
+El curso propone identificar, analizar y utilizar algunas de las estrategias creativas y críticas que se han producido en el transcurrir de la relación entre arte y la tecnología, específicamente la digital.  Estas estrategias provienen de una lectura y apropiación de los medios digitales, llevados a cabo tanto por teóricos como por artistas, quienes han decostruído las máquinas y las infraestructuras que nos rodean evidenciado su potencial poético y transformador.
 
 
 ## Objetivos
@@ -22,7 +22,7 @@ Identificar y apropiar estrategias de producción artística y con medios digita
 Experimentar y producir ejercicios y proyectos con tecnologías digitales actuales, accesibles y libres, que permitan a los participantes identificar y explotar sus usos creativos.
 
 
-##Metodología
+## Metodología
 
 El curso se distribuye en sesiones teorico prácticas, sin embargo el componente práctico prevalecerá sobre la teoría.  
 
@@ -31,7 +31,7 @@ En las sesiones se revisarán proyectos de artistas, proyectos de desarrollo tec
 En la parte práctica se revisarán varias herramientas y métodos de creación digital, usando principalmente lenguajes de marcado o de programación.
 
 
-##Contenidos
+## Contenidos
 
 ### Parte 1: Proceduralidad
 
@@ -64,7 +64,7 @@ En la parte práctica se revisarán varias herramientas y métodos de creación 
 12. Interacción "natural": Visión artificial y text to speech.(Processing)
 
 
-### Parte 3: Proyecto Final
+### Parte 3: Proyecto
 
 13. Presentación de ideas de proyecto final
 
@@ -94,22 +94,22 @@ Proyecto Final: Corresponde a la totalidad de la nota del tercer corte. Se tendr
 ### Porcentajes
 
 **Corte #1**
-* Lectura: 20%
-* Ejercicios 60%
+* Lectura: 30%
+* Ejercicios 70%
 
 **Corte #2**
-* Lectura: 20%
-* Ejercicio 60%
+* Lectura: 30%
+* Ejercicio 70%
 
 
 **Corte #3**
-* Proceso: 30%
-* Proyecto final: 70%
+* Proceso: 40%
+* Muestra de Proyecto Final: 60%
 
 
 ##Bibliografía
 
-* Agamben, Giorgio, Qué es un dispositivo ? , Sociológica, año 26, número 73, pp. 249-264, mayo-agosto de 2011. [link](http://www.revistasociologica.com.mx/pdf/7310.pdf)
+* Agamben, Giorgio, Qué es un dispositivo ? , Sociológica, año 26, número 73, pp. 249-264, mayo-agosto de 2011. [link](http://zeitgenoessischeaesthetik.de/wp-content/uploads/2013/07/que-es-un-dispositivo-giorgio-agamben.pdf)
 
 *  Galloway, Alexander; Protocol: How control exists after decentralization; MIT Press, 2004, Cambridge, Massachusets.
 
