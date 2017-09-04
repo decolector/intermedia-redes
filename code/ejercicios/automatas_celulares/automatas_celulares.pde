@@ -1,14 +1,19 @@
-int[] cells = {0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+//int[] cells = {0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
 
-
+int w = 600;
+int num_cells = w/10;
+int[] cells = new int[num_cells];
 int generation = 0;
 
-int[] ruleset = {0,0,0,1,1,1,1,0}; 
+int[] ruleset = {0,0,0,1,1,1,1,0};//regla 30 
 
 void setup(){
   size(600, 600);
   background(255);
-
+  for (int i = 0; i < cells.length; i++) {
+    cells[i] = 0;
+  }
+  cells[cells.length/2] = 1;
 } 
 
 void draw(){
@@ -45,9 +50,4 @@ int rules (int a, int b, int c) {
   else if (a == 0 && b == 0 && c == 0) return ruleset[7];
   return 0;
 }
-
-int rulez (int a, int b, int c) {
-  String s = "" + a + b + c;
-  int index = Integer.parseInt(s,2);
-  return ruleset[index];
-}
+ 
