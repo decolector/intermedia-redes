@@ -111,6 +111,9 @@ Proyecto Final: Corresponde a la totalidad de la nota del tercer corte. Se tendr
 
 * Agamben, Giorgio, Qué es un dispositivo ? , Sociológica, año 26, número 73, pp. 249-264, mayo-agosto de 2011. [link](http://zeitgenoessischeaesthetik.de/wp-content/uploads/2013/07/que-es-un-dispositivo-giorgio-agamben.pdf)
 
+
+* What an apparatus is not: On the archeology of the norm in faucault, Canguilhem and Goldstein; Matteo Pasquinelli. [link](https://www.parrhesiajournal.org/parrhesia22/parrhesia22_pasquinelli.pdf)
+
 *  Galloway, Alexander; Protocol: How control exists after decentralization; MIT Press, 2004, Cambridge, Massachusets.
 
 *  Terranova, Tiziana; Del sentido y la sensibilidad: el trabajo inmaterial en los sistemas abiertos; Curating Inmateriality; Autonomedia 2006. [traduccion al español](https://privadotextos.wordpress.com/2012/12/03/del-sentido-y-la-sensibilidad-el-trabajo-inmaterial-en-los-sistemas-abiertos/)
