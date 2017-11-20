@@ -1,6 +1,6 @@
 /*
-Este programa detecta la parte superior de un cuerpo humano y dibuja un cuadrado resaltando el objeto detectado.
-Usa la librería openCV y el haar cascade "UPPER_BODY"
+Este programa detecta un rostro humano y aplica un filtro BLUR sobre el rostro detectado
+Usa la librería openCV y el haar cascade "FRONTALFACE"
 */
 
 import gab.opencv.*;
