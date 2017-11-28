@@ -1,6 +1,8 @@
 /*
 Este programa detecta un rostro humano y aplica un filtro BLUR sobre el rostro detectado
 Usa la librería openCV y el haar cascade "FRONTALFACE"
+
+Escrito por Camilo Martinez, basado en el ejempo original de Greg Borenstein
 */
 
 import gab.opencv.*;
